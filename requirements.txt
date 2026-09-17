@@ -1,0 +1,12 @@
+pydantic
+langchain
+langchain-core
+langchain-community
+langchain-groq
+requests
+tavily-python
+python-dotenv
+langchainhub
+streamlit
+langgraph
+langgraph-checkpoint-sqlite
